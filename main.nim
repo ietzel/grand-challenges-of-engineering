@@ -1,17 +1,17 @@
 echo "Make Solar Energy Economical:"
-echo "Engineers are working to reduce the cost and improve the efficiency of solar energy technologies." 
+echo "Consider solar energy at least a here and now priority." 
 
 echo "Provide Energy from Fusion:"
-echo "Developing sustainable and clean energy from fusion is a major long-term goal for engineers." 
+echo "Plan on using the right kind of nuclear energy extensively into the future." 
 
 echo "Develop Carbon Sequestration Methods:"
-echo "Capturing and storing excess carbon dioxide from the atmosphere is crucial for mitigating climate change." 
+echo "Advance understanding of climate change." 
 
 echo "Secure Cyberspace:"
-echo "Protecting critical infrastructure and data from cyberattacks is a growing concern for engineers." 
+echo "Prevent Malware-as-a-Service." 
 
 echo "Advance Health Informatics:"
-echo "Using data and technology to improve healthcare delivery and outcomes is a key area for engineering." 
+echo "Increase reliability of wellness tech." 
 
 echo "Engineer Better Medicines:"
-echo "Developing new and more effective treatments and therapies is a major focus for biomedical engineers."
+echo "Emphasize cures."
