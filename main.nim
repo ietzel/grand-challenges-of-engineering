@@ -1,17 +1,17 @@
-echo "Make Solar Energy Economical:"
+echo "Solar Energy:"
 echo "Consider solar energy at least a here and now priority." 
 
-echo "Provide Energy from Fusion:"
+echo "Fusion:"
 echo "Plan on using the right kind of nuclear energy extensively into the future." 
 
-echo "Develop Carbon Sequestration Methods:"
+echo "Carbon Sequestration:"
 echo "Advance understanding of climate change." 
 
-echo "Secure Cyberspace:"
+echo "Security:"
 echo "Prevent Malware-as-a-Service." 
 
-echo "Advance Health Informatics:"
+echo "Health Informatics:"
 echo "Increase reliability of wellness tech." 
 
-echo "Engineer Better Medicines:"
+echo "Medicines:"
 echo "Emphasize cures."
