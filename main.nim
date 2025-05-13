@@ -1,4 +1,15 @@
-echo "Through human history, technology has changed exponentially to meet needs."
-echo "Many past/present/future technologies have a cyclical relationship with each other."
-echo "Technological change has mixed environmental impacts—some positive and some negative, that are frequently hard to assess in the short run."
-echo "Meanwhile it has required increasing inputs of both private and public capital aimed to capturing technology rents that have promoted greater wealth inequalities."
+echo 
+"
+Make Solar Energy Economical:
+Engineers are working to reduce the cost and improve the efficiency of solar energy technologies. 
+Provide Energy from Fusion:
+Developing sustainable and clean energy from fusion is a major long-term goal for engineers. 
+Develop Carbon Sequestration Methods:
+Capturing and storing excess carbon dioxide from the atmosphere is crucial for mitigating climate change. 
+Secure Cyberspace:
+Protecting critical infrastructure and data from cyberattacks is a growing concern for engineers. 
+Advance Health Informatics:
+Using data and technology to improve healthcare delivery and outcomes is a key area for engineering. 
+Engineer Better Medicines:
+Developing new and more effective treatments and therapies is a major focus for biomedical engineers. 
+"
